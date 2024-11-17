@@ -1,0 +1,1 @@
+This project is designed to enhance road safety by providing real-time detection of traffic signs and delivering audio feedback to the driver. By using advanced machine learning techniques and computer vision, the system identifies various traffic signs from a video stream or images and converts this information into auditory signals.
